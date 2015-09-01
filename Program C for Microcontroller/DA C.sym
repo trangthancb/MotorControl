@@ -1,0 +1,217 @@
+004-005 @READ_PROGRAM_MEMORY.P1
+004-005 @WRITE_PROGRAM_MEMORY.P2
+006     RF
+006.4   D0
+006.5   D1
+006.6   D2
+006.7   D3
+008     DAC
+008     PSP_DATA
+015-016 CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B-01C CCP_2
+01B     CCP_2_LOW
+01C     CCP_2_HIGH
+020     @INTERRUPT_AREA
+021     @INTERRUPT_AREA
+022     @INTERRUPT_AREA
+023     @INTERRUPT_AREA
+024     @INTERRUPT_AREA
+025     @INTERRUPT_AREA
+026     @INTERRUPT_AREA
+027     @INTERRUPT_AREA
+028     @INTERRUPT_AREA
+029-02A strtok.save
+02B-02E _Randseed
+02F-030 xung
+031-032 i
+033-034 j
+035-036 k
+037     udk
+038-041 string
+042     c
+043-046 ki
+047-04A kp
+04B-04E kpi
+04F-052 kii
+053-056 Vdat
+057-05A vantoc
+05B-05E ek
+05F-062 ek2
+063-066 udk2
+067-06A udk3
+06B-06E kd
+06F-072 ampe
+073-076 ampe2
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+07B     @SCRATCH
+07C-07D temp
+07E     @TRIS_C
+07F     @INTERRUPT_AREA
+09C.6   C1OUT
+09C.7   C2OUT
+0A0-0A3 uik
+0A4-0A7 uik2
+0A8-0AB volts_ampe
+0AC-0AF temp_V
+0B0-0B1 adc_value
+0B2-0B5 do_dong.temp_volts
+0B2     MAIN.@SCRATCH
+0B3     MAIN.@SCRATCH
+0B4     MAIN.@SCRATCH
+0B5     MAIN.@SCRATCH
+0B6-0B7 @DIV1616.P1
+0B6     @PRINTF_U_9600_62_63.P2
+0B6     @delay_ms1.P3
+0B6-0B9 @PRINTF_L32D_9600_62_63FPFPF.P4
+0B6     do_dong.@SCRATCH
+0B7     @PRINTF_U_9600_62_63.P1
+0B7     do_dong.@SCRATCH
+0B8     @DIV88.P1
+0B8-0B9 @DIV1616.P2
+0B9     @DIV88.P1
+0BA     @PRINTF_L32D_9600_62_63FPFPF.P1
+0BA     @DIV1616.@SCRATCH
+0BA     @DIV88.@SCRATCH
+0BB     @PRINTF_L32D_9600_62_63FPFPF.@SCRATCH
+0BC     @PRINTF_L32D_9600_62_63FPFPF.@SCRATCH
+0BD     @PRINTF_L32D_9600_62_63FPFPF.@SCRATCH
+0BE     @PRINTF_L32D_9600_62_63FPFPF.@SCRATCH
+0BF     @PRINTF_L32D_9600_62_63FPFPF.@SCRATCH
+0C0     @PRINTF_L32D_9600_62_63FPFPF.@SCRATCH
+0C1     @PRINTF_L32D_9600_62_63FPFPF.@SCRATCH
+0C2     @PRINTF_L32D_9600_62_63FPFPF.@SCRATCH
+0C3-0C6 @DIV3232.P1
+0C3-0C6 @FTOSD.P2
+0C7-0CA @DIV3232.P1
+0C7     @FTOSD.@SCRATCH
+0CB     @DIV3232.@SCRATCH
+0CC     @DIV3232.@SCRATCH
+0CD     @DIV3232.@SCRATCH
+0CE     @DIV3232.@SCRATCH
+0CF     @DIV3232.@SCRATCH
+0D0-0D1 atof.s
+0D0-0D3 @FLT.P1
+0D0-0D3 @SFTOI.P2
+0D0     ngat_timer1.@SCRATCH
+0D0     serial_isr.@SCRATCH
+0D1     ngat_timer1.@SCRATCH
+0D1     serial_isr.@SCRATCH
+0D2-0D5 atof.pow10
+0D2     ngat_timer1.@SCRATCH
+0D3     ngat_timer1.@SCRATCH
+0D4-0D7 @FLT.P1
+0D4     ngat_timer1.@SCRATCH
+0D5     ngat_timer1.@SCRATCH
+0D6-0D9 atof.result
+0D6     ngat_timer1.@SCRATCH
+0D7     ngat_timer1.@SCRATCH
+0D8     ngat_timer1.@SCRATCH
+0D8     @FLT.@SCRATCH
+0D9     ngat_timer1.@SCRATCH
+0D9     @FLT.@SCRATCH
+0DA     atof.sign
+0DA     ngat_timer1.@SCRATCH
+0DB     atof.c
+0DB     ngat_timer1.@SCRATCH
+0DC     atof.ptr
+0DD-0E0 @MULFF.P1
+0DD     atof.@SCRATCH
+0DE-0E1 @DIVFF.P1
+0DE     atof.@SCRATCH
+0DF     atof.@SCRATCH
+0E0     atof.@SCRATCH
+0E1-0E2 @ITOF.P1
+0E1-0E4 @MULFF.P2
+0E1     atof.@SCRATCH
+0E2-0E5 @DIVFF.P1
+0E2     atof.@SCRATCH
+0E3     atof.@SCRATCH
+0E4     atof.@SCRATCH
+0E5-0E8 @ADDFF.P1
+0E5     @MULFF.@SCRATCH
+0E6     @MULFF.@SCRATCH
+0E6     @DIVFF.@SCRATCH
+0E7     @MULFF.@SCRATCH
+0E7     @DIVFF.@SCRATCH
+0E8     @MULFF.@SCRATCH
+0E8     @DIVFF.@SCRATCH
+0E9-0EC @ADDFF.P1
+0E9     @MULFF.@SCRATCH
+0E9     @DIVFF.@SCRATCH
+0EA     @DIVFF.@SCRATCH
+0EB     @DIVFF.@SCRATCH
+0FF     @INTERRUPT_AREA
+10D     @READ_PROGRAM_MEMORY.P1
+10D     @WRITE_PROGRAM_MEMORY.P2
+10F     @READ_PROGRAM_MEMORY.P1
+10F     @WRITE_PROGRAM_MEMORY.P2
+110     @ADDFF.@SCRATCH
+111     @ADDFF.@SCRATCH
+112     @ADDFF.@SCRATCH
+113     @ADDFF.@SCRATCH
+114     @ADDFF.@SCRATCH
+115     @ADDFF.@SCRATCH
+116     @ADDFF.@SCRATCH
+117     @ADDFF.@SCRATCH
+17F     @INTERRUPT_AREA
+1FF     @INTERRUPT_AREA
+27F     @INTERRUPT_AREA
+2FF     @INTERRUPT_AREA
+37F     @INTERRUPT_AREA
+3FF     @INTERRUPT_AREA
+
+05F4  atof
+0072  @MULFF
+0053  @ITOF
+00E9  @ADDFF
+0297  @DIVFF
+0814  @DIV1616
+0800  @delay_ms1
+004C  dem_encoder
+03C7  ngat_timer1
+0363  @FLT
+03A4  @SFTOI
+0733  serial_isr
+083D  do_dong
+07E2  SyncInt
+0A97  MAIN
+08ED  @FTOSD
+0910  @DIV3232
+0954  @PRINTF_L32D_9600_62_63FPFPF
+0A3E  @DIV88
+0A55  @PRINTF_U_9600_62_63
+0A97  @cinit
+
+Project Files:
+    DA C.c
+    C:\Program Files (x86)\PICC\devices\16f877a.h
+    C:\Program Files (x86)\PICC\drivers\stdlib.h
+    C:\Program Files (x86)\PICC\drivers\stddef.h
+    C:\Program Files (x86)\PICC\drivers\string.h
+    C:\Program Files (x86)\PICC\drivers\ctype.h
+
+Units:
+    E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.c (main)
+
+Compiler Settings:
+    Processor:      PIC16F877A
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      0
+    Short,Int,Long: 1,8,16
+
+Output Files:
+    Errors:      E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.err
+    Ext Symbols: E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.esym
+    INHX8:       E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.hex
+    Symbols:     E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.sym
+    List:        E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.lst
+    Debug/COFF:  E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.cof
+    Call Tree:   DA C.tre
+    Statistics:  DA C.sta

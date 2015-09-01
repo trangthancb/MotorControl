@@ -1,0 +1,30 @@
+[PROJECT]
+Target=DA C.hex
+Development_Mode=
+Processor_Text=PIC16F877A
+ToolSuite=CCS
+Processor=0x877A
+[DA C]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=DA C
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Opened Files]
+1=E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.c
+2=E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.lst
+3=C:\Program Files (x86)\PICC\Examples\EX_ADMM.C
+4=
+5=
+[Target Data]
+OptionString=-p +FM
+FileList=E:\Hoc tap\_Do An Tot Nghiep\_Chuong Trinh C\VB6\C DOANTN\DA C.c
+[Units]
+Count=1
+1=DA C.c (main)
+Link=0

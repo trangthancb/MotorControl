@@ -1,0 +1,325 @@
+Line 41: Class UnicodeControl.UniFrame of control UniFrame5 was not a loaded control class.
+Line 67: Class UnicodeControl.UniLabel of control UniLabel11 was not a loaded control class.
+Line 95: Class UnicodeControl.UniLabel of control UniLabel10 was not a loaded control class.
+Line 123: Class UnicodeControl.UniLabel of control UniLabel9 was not a loaded control class.
+Line 152: Class UnicodeControl.UniLabel of control UniLabel8 was not a loaded control class.
+Line 180: Class UnicodeControl.UniLabel of control UniLabel7 was not a loaded control class.
+Line 208: Class UnicodeControl.UniLabel of control UniLabel6 was not a loaded control class.
+Line 260: Class UnicodeControl.UniFrame of control UniFrame4 was not a loaded control class.
+Line 286: Class UnicodeControl.UniButton of control cmd_cauhinh was not a loaded control class.
+Line 309: Class UnicodeControl.UniTextBox of control txt_Kd was not a loaded control class.
+Line 348: Class UnicodeControl.UniTextBox of control txt_Ki was not a loaded control class.
+Line 387: Class UnicodeControl.UniTextBox of control txt_Kp was not a loaded control class.
+Line 426: Class UnicodeControl.UniLabel of control UniLabel5 was not a loaded control class.
+Line 454: Class UnicodeControl.UniLabel of control UniLabel4 was not a loaded control class.
+Line 482: Class UnicodeControl.UniLabel of control UniLabel3 was not a loaded control class.
+Line 511: Class UnicodeControl.UniFrame of control UniFrame3 was not a loaded control class.
+Line 537: Class UnicodeControl.UniTextBox of control txt_Vthuc was not a loaded control class.
+Line 576: Class UnicodeControl.UniTextBox of control txt_Vdat was not a loaded control class.
+Line 615: Class UnicodeControl.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 624: Class UnicodeControl.UniLabel of control UniLabel2 was not a loaded control class.
+Line 652: Class UnicodeControl.UniButton of control cmd_setV was not a loaded control class.
+Line 675: Class UnicodeControl.UniLabel of control UniLabel1 was not a loaded control class.
+Line 711: Class MSCommLib.MSComm of control MSComm1 was not a loaded control class.
+Line 722: Class UnicodeControl.UniFrame of control UniFrame2 was not a loaded control class.
+Line 748: Class UnicodeControl.ProgressBar of control pro_seach_com was not a loaded control class.
+Line 759: Class UnicodeControl.UniLabel of control lbl_thongbao was not a loaded control class.
+Line 787: Class UnicodeControl.UniCombobox of control cb_com was not a loaded control class.
+Line 813: Class UnicodeControl.UniButton of control cmd_connect was not a loaded control class.
+Line 836: Class UnicodeControl.UniOption of control op_thucong was not a loaded control class.
+Line 860: Class UnicodeControl.UniOption of control op_tudong was not a loaded control class.
+Line 886: Class UnicodeControl.UniFrame of control UniFrame1 was not a loaded control class.
+Line 912: Class TeeChart.TChart of control TChart1 was not a loaded control class.
+Line 47: The property name _ExtentX in UniFrame5 is invalid.
+Line 48: The property name _ExtentY in UniFrame5 is invalid.
+Line 59: The property name OldHeight in UniFrame5 is invalid.
+Line 60: The property name UniToolTipText in UniFrame5 is invalid.
+Line 61: The property name Caption in UniFrame5 is invalid.
+Line 63: The property name ForeHighlight in UniFrame5 is invalid.
+Line 64: The property name ShowButton in UniFrame5 is invalid.
+Line 66: The property name PictureType in UniFrame5 is invalid.
+Line 41: Property Picture in UniFrame5 could not be set.
+Line 73: The property name _ExtentX in UniLabel11 is invalid.
+Line 74: The property name _ExtentY in UniLabel11 is invalid.
+Line 87: The property name Caption in UniLabel11 is invalid.
+Line 88: The property name Link in UniLabel11 is invalid.
+Line 89: The property name ForeColorWordEffect in UniLabel11 is invalid.
+Line 90: The property name SpeedOrtherColor in UniLabel11 is invalid.
+Line 91: The property name UniToolTipText in UniLabel11 is invalid.
+Line 93: The property name PictureType in UniLabel11 is invalid.
+Line 67: Property Picture in UniLabel11 could not be set.
+Line 101: The property name _ExtentX in UniLabel10 is invalid.
+Line 102: The property name _ExtentY in UniLabel10 is invalid.
+Line 115: The property name Caption in UniLabel10 is invalid.
+Line 116: The property name Link in UniLabel10 is invalid.
+Line 117: The property name ForeColorWordEffect in UniLabel10 is invalid.
+Line 118: The property name SpeedOrtherColor in UniLabel10 is invalid.
+Line 119: The property name UniToolTipText in UniLabel10 is invalid.
+Line 121: The property name PictureType in UniLabel10 is invalid.
+Line 95: Property Picture in UniLabel10 could not be set.
+Line 130: The property name _ExtentX in UniLabel9 is invalid.
+Line 131: The property name _ExtentY in UniLabel9 is invalid.
+Line 144: The property name Caption in UniLabel9 is invalid.
+Line 145: The property name Link in UniLabel9 is invalid.
+Line 146: The property name ForeColorWordEffect in UniLabel9 is invalid.
+Line 147: The property name SpeedOrtherColor in UniLabel9 is invalid.
+Line 148: The property name UniToolTipText in UniLabel9 is invalid.
+Line 150: The property name PictureType in UniLabel9 is invalid.
+Line 123: Property Picture in UniLabel9 could not be set.
+Line 158: The property name _ExtentX in UniLabel8 is invalid.
+Line 159: The property name _ExtentY in UniLabel8 is invalid.
+Line 172: The property name Caption in UniLabel8 is invalid.
+Line 173: The property name Link in UniLabel8 is invalid.
+Line 174: The property name ForeColorWordEffect in UniLabel8 is invalid.
+Line 175: The property name SpeedOrtherColor in UniLabel8 is invalid.
+Line 176: The property name UniToolTipText in UniLabel8 is invalid.
+Line 178: The property name PictureType in UniLabel8 is invalid.
+Line 152: Property Picture in UniLabel8 could not be set.
+Line 186: The property name _ExtentX in UniLabel7 is invalid.
+Line 187: The property name _ExtentY in UniLabel7 is invalid.
+Line 200: The property name Caption in UniLabel7 is invalid.
+Line 201: The property name Link in UniLabel7 is invalid.
+Line 202: The property name ForeColorWordEffect in UniLabel7 is invalid.
+Line 203: The property name SpeedOrtherColor in UniLabel7 is invalid.
+Line 204: The property name UniToolTipText in UniLabel7 is invalid.
+Line 206: The property name PictureType in UniLabel7 is invalid.
+Line 180: Property Picture in UniLabel7 could not be set.
+Line 214: The property name _ExtentX in UniLabel6 is invalid.
+Line 215: The property name _ExtentY in UniLabel6 is invalid.
+Line 228: The property name Caption in UniLabel6 is invalid.
+Line 229: The property name Link in UniLabel6 is invalid.
+Line 230: The property name ForeColorWordEffect in UniLabel6 is invalid.
+Line 231: The property name SpeedOrtherColor in UniLabel6 is invalid.
+Line 232: The property name UniToolTipText in UniLabel6 is invalid.
+Line 234: The property name PictureType in UniLabel6 is invalid.
+Line 208: Property Picture in UniLabel6 could not be set.
+Line 266: The property name _ExtentX in UniFrame4 is invalid.
+Line 267: The property name _ExtentY in UniFrame4 is invalid.
+Line 278: The property name OldHeight in UniFrame4 is invalid.
+Line 279: The property name UniToolTipText in UniFrame4 is invalid.
+Line 280: The property name Caption in UniFrame4 is invalid.
+Line 282: The property name ForeHighlight in UniFrame4 is invalid.
+Line 283: The property name ShowButton in UniFrame4 is invalid.
+Line 285: The property name PictureType in UniFrame4 is invalid.
+Line 260: Property Picture in UniFrame4 could not be set.
+Line 292: The property name _ExtentX in cmd_cauhinh is invalid.
+Line 293: The property name _ExtentY in cmd_cauhinh is invalid.
+Line 294: The property name Caption in cmd_cauhinh is invalid.
+Line 295: The property name ForecolorSelected in cmd_cauhinh is invalid.
+Line 296: The property name UniToolTipText in cmd_cauhinh is invalid.
+Line 306: The property name EnableDoubleClick in cmd_cauhinh is invalid.
+Line 286: Property Picture in cmd_cauhinh could not be set.
+Line 315: The property name _ExtentX in txt_Kd is invalid.
+Line 316: The property name _ExtentY in txt_Kd is invalid.
+Line 317: The property name Alignment in txt_Kd is invalid.
+Line 318: The property name UniToolTipText in txt_Kd is invalid.
+Line 322: The property name CaptureEnter in txt_Kd is invalid.
+Line 323: The property name CaptureEsc in txt_Kd is invalid.
+Line 324: The property name CaptureTab in txt_Kd is invalid.
+Line 336: The property name HideSelection in txt_Kd is invalid.
+Line 337: The property name Locked in txt_Kd is invalid.
+Line 338: The property name MaxLength in txt_Kd is invalid.
+Line 341: The property name MultiLine in txt_Kd is invalid.
+Line 342: The property name PasswordChar in txt_Kd is invalid.
+Line 344: The property name ScrollBars in txt_Kd is invalid.
+Line 345: The property name Text in txt_Kd is invalid.
+Line 346: The property name UseEvents in txt_Kd is invalid.
+Line 309: Property BorderStyle in txt_Kd could not be set.
+Line 309: Property MouseIcon in txt_Kd could not be set.
+Line 354: The property name _ExtentX in txt_Ki is invalid.
+Line 355: The property name _ExtentY in txt_Ki is invalid.
+Line 356: The property name Alignment in txt_Ki is invalid.
+Line 357: The property name UniToolTipText in txt_Ki is invalid.
+Line 361: The property name CaptureEnter in txt_Ki is invalid.
+Line 362: The property name CaptureEsc in txt_Ki is invalid.
+Line 363: The property name CaptureTab in txt_Ki is invalid.
+Line 375: The property name HideSelection in txt_Ki is invalid.
+Line 376: The property name Locked in txt_Ki is invalid.
+Line 377: The property name MaxLength in txt_Ki is invalid.
+Line 380: The property name MultiLine in txt_Ki is invalid.
+Line 381: The property name PasswordChar in txt_Ki is invalid.
+Line 383: The property name ScrollBars in txt_Ki is invalid.
+Line 384: The property name Text in txt_Ki is invalid.
+Line 385: The property name UseEvents in txt_Ki is invalid.
+Line 348: Property BorderStyle in txt_Ki could not be set.
+Line 348: Property MouseIcon in txt_Ki could not be set.
+Line 393: The property name _ExtentX in txt_Kp is invalid.
+Line 394: The property name _ExtentY in txt_Kp is invalid.
+Line 395: The property name Alignment in txt_Kp is invalid.
+Line 396: The property name UniToolTipText in txt_Kp is invalid.
+Line 400: The property name CaptureEnter in txt_Kp is invalid.
+Line 401: The property name CaptureEsc in txt_Kp is invalid.
+Line 402: The property name CaptureTab in txt_Kp is invalid.
+Line 414: The property name HideSelection in txt_Kp is invalid.
+Line 415: The property name Locked in txt_Kp is invalid.
+Line 416: The property name MaxLength in txt_Kp is invalid.
+Line 419: The property name MultiLine in txt_Kp is invalid.
+Line 420: The property name PasswordChar in txt_Kp is invalid.
+Line 422: The property name ScrollBars in txt_Kp is invalid.
+Line 423: The property name Text in txt_Kp is invalid.
+Line 424: The property name UseEvents in txt_Kp is invalid.
+Line 387: Property BorderStyle in txt_Kp could not be set.
+Line 387: Property MouseIcon in txt_Kp could not be set.
+Line 432: The property name _ExtentX in UniLabel5 is invalid.
+Line 433: The property name _ExtentY in UniLabel5 is invalid.
+Line 446: The property name Caption in UniLabel5 is invalid.
+Line 447: The property name Link in UniLabel5 is invalid.
+Line 448: The property name ForeColorWordEffect in UniLabel5 is invalid.
+Line 449: The property name SpeedOrtherColor in UniLabel5 is invalid.
+Line 450: The property name UniToolTipText in UniLabel5 is invalid.
+Line 452: The property name PictureType in UniLabel5 is invalid.
+Line 426: Property Picture in UniLabel5 could not be set.
+Line 460: The property name _ExtentX in UniLabel4 is invalid.
+Line 461: The property name _ExtentY in UniLabel4 is invalid.
+Line 474: The property name Caption in UniLabel4 is invalid.
+Line 475: The property name Link in UniLabel4 is invalid.
+Line 476: The property name ForeColorWordEffect in UniLabel4 is invalid.
+Line 477: The property name SpeedOrtherColor in UniLabel4 is invalid.
+Line 478: The property name UniToolTipText in UniLabel4 is invalid.
+Line 480: The property name PictureType in UniLabel4 is invalid.
+Line 454: Property Picture in UniLabel4 could not be set.
+Line 488: The property name _ExtentX in UniLabel3 is invalid.
+Line 489: The property name _ExtentY in UniLabel3 is invalid.
+Line 502: The property name Caption in UniLabel3 is invalid.
+Line 503: The property name Link in UniLabel3 is invalid.
+Line 504: The property name ForeColorWordEffect in UniLabel3 is invalid.
+Line 505: The property name SpeedOrtherColor in UniLabel3 is invalid.
+Line 506: The property name UniToolTipText in UniLabel3 is invalid.
+Line 508: The property name PictureType in UniLabel3 is invalid.
+Line 482: Property Picture in UniLabel3 could not be set.
+Line 517: The property name _ExtentX in UniFrame3 is invalid.
+Line 518: The property name _ExtentY in UniFrame3 is invalid.
+Line 529: The property name OldHeight in UniFrame3 is invalid.
+Line 530: The property name UniToolTipText in UniFrame3 is invalid.
+Line 531: The property name Caption in UniFrame3 is invalid.
+Line 533: The property name ForeHighlight in UniFrame3 is invalid.
+Line 534: The property name ShowButton in UniFrame3 is invalid.
+Line 536: The property name PictureType in UniFrame3 is invalid.
+Line 511: Property Picture in UniFrame3 could not be set.
+Line 543: The property name _ExtentX in txt_Vthuc is invalid.
+Line 544: The property name _ExtentY in txt_Vthuc is invalid.
+Line 545: The property name Alignment in txt_Vthuc is invalid.
+Line 546: The property name UniToolTipText in txt_Vthuc is invalid.
+Line 550: The property name CaptureEnter in txt_Vthuc is invalid.
+Line 551: The property name CaptureEsc in txt_Vthuc is invalid.
+Line 552: The property name CaptureTab in txt_Vthuc is invalid.
+Line 564: The property name HideSelection in txt_Vthuc is invalid.
+Line 565: The property name Locked in txt_Vthuc is invalid.
+Line 566: The property name MaxLength in txt_Vthuc is invalid.
+Line 569: The property name MultiLine in txt_Vthuc is invalid.
+Line 570: The property name PasswordChar in txt_Vthuc is invalid.
+Line 572: The property name ScrollBars in txt_Vthuc is invalid.
+Line 573: The property name Text in txt_Vthuc is invalid.
+Line 574: The property name UseEvents in txt_Vthuc is invalid.
+Line 537: Property BorderStyle in txt_Vthuc could not be set.
+Line 537: Property MouseIcon in txt_Vthuc could not be set.
+Line 582: The property name _ExtentX in txt_Vdat is invalid.
+Line 583: The property name _ExtentY in txt_Vdat is invalid.
+Line 584: The property name Alignment in txt_Vdat is invalid.
+Line 585: The property name UniToolTipText in txt_Vdat is invalid.
+Line 589: The property name CaptureEnter in txt_Vdat is invalid.
+Line 590: The property name CaptureEsc in txt_Vdat is invalid.
+Line 591: The property name CaptureTab in txt_Vdat is invalid.
+Line 603: The property name HideSelection in txt_Vdat is invalid.
+Line 604: The property name Locked in txt_Vdat is invalid.
+Line 605: The property name MaxLength in txt_Vdat is invalid.
+Line 608: The property name MultiLine in txt_Vdat is invalid.
+Line 609: The property name PasswordChar in txt_Vdat is invalid.
+Line 611: The property name ScrollBars in txt_Vdat is invalid.
+Line 612: The property name Text in txt_Vdat is invalid.
+Line 613: The property name UseEvents in txt_Vdat is invalid.
+Line 576: Property BorderStyle in txt_Vdat could not be set.
+Line 576: Property MouseIcon in txt_Vdat could not be set.
+Line 621: The property name _ExtentX in ProgressBar1 is invalid.
+Line 622: The property name _ExtentY in ProgressBar1 is invalid.
+Line 630: The property name _ExtentX in UniLabel2 is invalid.
+Line 631: The property name _ExtentY in UniLabel2 is invalid.
+Line 644: The property name Caption in UniLabel2 is invalid.
+Line 645: The property name Link in UniLabel2 is invalid.
+Line 646: The property name ForeColorWordEffect in UniLabel2 is invalid.
+Line 647: The property name SpeedOrtherColor in UniLabel2 is invalid.
+Line 648: The property name UniToolTipText in UniLabel2 is invalid.
+Line 650: The property name PictureType in UniLabel2 is invalid.
+Line 624: Property Picture in UniLabel2 could not be set.
+Line 658: The property name _ExtentX in cmd_setV is invalid.
+Line 659: The property name _ExtentY in cmd_setV is invalid.
+Line 660: The property name Caption in cmd_setV is invalid.
+Line 661: The property name ForecolorSelected in cmd_setV is invalid.
+Line 662: The property name UniToolTipText in cmd_setV is invalid.
+Line 672: The property name EnableDoubleClick in cmd_setV is invalid.
+Line 652: Property Picture in cmd_setV could not be set.
+Line 681: The property name _ExtentX in UniLabel1 is invalid.
+Line 682: The property name _ExtentY in UniLabel1 is invalid.
+Line 695: The property name Caption in UniLabel1 is invalid.
+Line 696: The property name Link in UniLabel1 is invalid.
+Line 697: The property name ForeColorWordEffect in UniLabel1 is invalid.
+Line 698: The property name SpeedOrtherColor in UniLabel1 is invalid.
+Line 699: The property name UniToolTipText in UniLabel1 is invalid.
+Line 701: The property name PictureType in UniLabel1 is invalid.
+Line 675: Property Picture in UniLabel1 could not be set.
+Line 714: The property name _ExtentX in MSComm1 is invalid.
+Line 715: The property name _ExtentY in MSComm1 is invalid.
+Line 716: The property name _Version in MSComm1 is invalid.
+Line 717: The property name CommPort in MSComm1 is invalid.
+Line 718: The property name DTREnable in MSComm1 is invalid.
+Line 719: The property name InputLen in MSComm1 is invalid.
+Line 720: The property name RThreshold in MSComm1 is invalid.
+Line 728: The property name _ExtentX in UniFrame2 is invalid.
+Line 729: The property name _ExtentY in UniFrame2 is invalid.
+Line 740: The property name OldHeight in UniFrame2 is invalid.
+Line 741: The property name UniToolTipText in UniFrame2 is invalid.
+Line 742: The property name Caption in UniFrame2 is invalid.
+Line 744: The property name ForeHighlight in UniFrame2 is invalid.
+Line 745: The property name ShowButton in UniFrame2 is invalid.
+Line 747: The property name PictureType in UniFrame2 is invalid.
+Line 722: Property Picture in UniFrame2 could not be set.
+Line 755: The property name _ExtentX in pro_seach_com is invalid.
+Line 756: The property name _ExtentY in pro_seach_com is invalid.
+Line 757: The property name Max in pro_seach_com is invalid.
+Line 765: The property name _ExtentX in lbl_thongbao is invalid.
+Line 766: The property name _ExtentY in lbl_thongbao is invalid.
+Line 779: The property name Caption in lbl_thongbao is invalid.
+Line 780: The property name Link in lbl_thongbao is invalid.
+Line 781: The property name ForeColorWordEffect in lbl_thongbao is invalid.
+Line 782: The property name SpeedOrtherColor in lbl_thongbao is invalid.
+Line 783: The property name UniToolTipText in lbl_thongbao is invalid.
+Line 785: The property name PictureType in lbl_thongbao is invalid.
+Line 759: Property Picture in lbl_thongbao could not be set.
+Line 794: The property name _ExtentX in cb_com is invalid.
+Line 795: The property name _ExtentY in cb_com is invalid.
+Line 796: The property name Text in cb_com is invalid.
+Line 807: The property name ListIndex in cb_com is invalid.
+Line 808: The property name UniToolTipText in cb_com is invalid.
+Line 809: The property name Icon in cb_com is invalid.
+Line 810: The property name Item in cb_com is invalid.
+Line 811: The property name ComboStyle in cb_com is invalid.
+Line 819: The property name _ExtentX in cmd_connect is invalid.
+Line 820: The property name _ExtentY in cmd_connect is invalid.
+Line 821: The property name Caption in cmd_connect is invalid.
+Line 822: The property name ForecolorSelected in cmd_connect is invalid.
+Line 823: The property name UniToolTipText in cmd_connect is invalid.
+Line 833: The property name EnableDoubleClick in cmd_connect is invalid.
+Line 813: Property Picture in cmd_connect could not be set.
+Line 842: The property name _ExtentX in op_thucong is invalid.
+Line 843: The property name _ExtentY in op_thucong is invalid.
+Line 844: The property name Caption in op_thucong is invalid.
+Line 855: The property name Style in op_thucong is invalid.
+Line 857: The property name UniToolTipText in op_thucong is invalid.
+Line 858: The property name Theme in op_thucong is invalid.
+Line 866: The property name _ExtentX in op_tudong is invalid.
+Line 867: The property name _ExtentY in op_tudong is invalid.
+Line 868: The property name Value in op_tudong is invalid.
+Line 869: The property name Caption in op_tudong is invalid.
+Line 880: The property name Style in op_tudong is invalid.
+Line 882: The property name UniToolTipText in op_tudong is invalid.
+Line 883: The property name Theme in op_tudong is invalid.
+Line 892: The property name _ExtentX in UniFrame1 is invalid.
+Line 893: The property name _ExtentY in UniFrame1 is invalid.
+Line 904: The property name OldHeight in UniFrame1 is invalid.
+Line 905: The property name UniToolTipText in UniFrame1 is invalid.
+Line 906: The property name Caption in UniFrame1 is invalid.
+Line 908: The property name ForeHighlight in UniFrame1 is invalid.
+Line 909: The property name ShowButton in UniFrame1 is invalid.
+Line 911: The property name PictureType in UniFrame1 is invalid.
+Line 886: Property Picture in UniFrame1 could not be set.
+Line 918: The property name Base64 in TChart1 is invalid.

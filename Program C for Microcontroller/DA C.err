@@ -1,0 +1,6 @@
+>>> Warning 203 "DA C.c" Line 170(1,1): Condition always TRUE
+>>> Warning 216 "DA C.c" Line 184(0,1): Interrupts disabled during call to prevent re-entrancy:  (@ITOF)
+>>> Warning 216 "DA C.c" Line 184(0,1): Interrupts disabled during call to prevent re-entrancy:  (@MULFF)
+>>> Warning 216 "DA C.c" Line 184(0,1): Interrupts disabled during call to prevent re-entrancy:  (@DIVFF)
+      Memory usage:   ROM=37%      RAM=32% - 49%
+      0 Errors,  4 Warnings.
